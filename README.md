@@ -6,7 +6,7 @@ Intent WebView
 第一个应用：获取URL地址并启动隐式Intent的调用。
 第二个应用：自定义WebView来加载URL
 
-跳转之后，出现选择项，选择自定义的MyBrowser进行浏览
+跳转之后，出现选择项，选择自定义的WebView进行浏览
 
 ![images](https://github.com/atCY1998/Intent/blob/master/images/1.png)
 
